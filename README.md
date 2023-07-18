@@ -12,7 +12,7 @@
 
 - 👯 I’m looking forward to being professional in Rapid Prototype Design Unit by using **Low Code Platforms.**
 
-- 👨‍💻  I'm currently Studying Computer Programming and Analysis at **[Seneca College.](https://www.senecacollege.ca)**
+- 👨‍💻  I graduated as a Computer Programming and Analysis at **[Seneca College.](https://www.senecacollege.ca)**
 
 - 📫 Please feel free to reach me on My personal email ** belalsalah66@hotmail.com**
 
